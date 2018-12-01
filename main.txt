@@ -6,5 +6,18 @@ goodmood
 123456578
 hhaahahahhahahahaahahahahahahahahh
 
+<<<<<<< HEAD
 ********************************************
 ++++++++++++++++++++++++++++++++++------------------------------
+=======
+
+
+
+lalalalalalalllaallalalalalalalal
+hhaahahahhahahahaahahahahahahahahha
+
+
+
+
+====================================================================
+>>>>>>> master
